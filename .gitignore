@@ -31,3 +31,11 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+### others
+checkpoints/
+./mvn
+./tools
+mvn
+mvnw.cmd
