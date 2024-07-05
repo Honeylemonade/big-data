@@ -39,3 +39,4 @@ checkpoints/
 ./tools
 mvn
 mvnw.cmd
+.DS_Store
